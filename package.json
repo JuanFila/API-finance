@@ -1,0 +1,16 @@
+{
+  "name": "exerciciofinaljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.5",
+    "json-server": "^0.17.1"
+  }
+}
