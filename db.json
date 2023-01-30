@@ -7,13 +7,18 @@
     },
     {
       "name": "Juan Pablo Fila",
-      "amount": 24,
+      "amount": 2000,
       "id": 4
     },
     {
-      "name": "Cadu_V",
-      "amount": -23,
+      "name": "Cadu",
+      "amount": -1000,
       "id": 5
+    },
+    {
+      "name": "Cadu_V",
+      "amount": -230,
+      "id": 6
     }
   ]
 }
